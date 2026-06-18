@@ -19,9 +19,7 @@ A freehand drawing application that lets you paint directly on screen.
 
 - Draw with the mouse using a 2D graphics canvas
 - Built around Java's `Graphics2D` API
-  
-### GIS (Datum) transformations
-https://github.com/moudzx/Helmert-transformation
+
 
 ### Notepad
 
